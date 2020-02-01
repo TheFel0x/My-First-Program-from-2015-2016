@@ -1,9 +1,3 @@
-/*
-very old version from 2015
-I think I didn't know what I was doing at all
-lmao
-*/
-
 for (var EINGABE = prompt ("Wort",""), var E = 0, var P = 0, var SATZ = "", var POOL = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]; SATZ.length <= EINGABE.length; ) {
     if (EINGABE[E] == POOL[P]) {
         POOL.reverse();
@@ -19,3 +13,10 @@ for (var EINGABE = prompt ("Wort",""), var E = 0, var P = 0, var SATZ = "", var 
     };
 };
 alert("+SATZ+");
+
+/*
+early version from 2015
+looks like I didn't understand syntax yet lmao
+obviously this doesn't work at all
+main reasons why it's not working are line 1 and line 15
+*/
