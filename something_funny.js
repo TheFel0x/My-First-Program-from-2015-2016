@@ -16,7 +16,6 @@ alert("+SATZ+");
 
 /*
 early version from 2015
-looks like I didn't understand syntax yet lmao
-obviously this doesn't work at all
-main reasons why it's not working are line 1 and line 15
+it's february 2nd 2020 rn and I found a post from me asking why this isn't working online
+date only said "5 years ago" but I can assume that I made it in 2015 because of that
 */
